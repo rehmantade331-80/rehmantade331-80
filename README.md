@@ -5,19 +5,12 @@
 <img src="https://img.shields.io/badge/Insight%20Explorer-FFFFFF?style=for-the-badge&logo=analytics&logoColor=FF6F00">
 </p>
 
-Hi, I'm ** A Rehman Tade** — an **Aspiring Data Analyst** | 📈 **Data Enthusiast** | 🔍 **Insight Explorer**  
+Hi, I'm **A Rehman Tade** — an **Aspiring Data Analyst** | 📈 **Data Enthusiast** | 🔍 **Insight Explorer**  
 I transform raw data into **actionable insights**, and I am passionate about **analytics, dashboards, and visual storytelling**.
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-<a href="https://instagram.com/its_a_rehman_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/a-rehman-tade-503126279"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rehmantade331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
----
 
 # 💻 Tech Stack
 <p align="center">
@@ -37,45 +30,20 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 
 <div align="center">
 
-<table>
-<tr>
+| Zomato Insights Dashboard | Superstore Retail Performance Analysis | HR Dashboard |
+|---------------------------|--------------------------------------|-------------|
+| <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** Analyze restaurant & customer data, build actionable insights, and create a Power BI dashboard.<br>**Tech:** Python, Pandas, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/Zomato_Insights_Dashboard)</div> | <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** Retail sales KPI analysis across regions and products using dashboards.<br>**Tech:** Excel, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/Superstore-Retail-Performance-Analysis)</div> | <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** HR analytics dashboard to track attrition, performance, and demographics.<br>**Tech:** Excel, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/HR_Dashboard)</div> |
 
-<!-- Project 1 -->
-<td align="center" width="320">
-
-### **Zomato Insights Dashboard**
-**Description:** Analyze restaurant & customer data, build actionable insights and Power BI dashboard.  
-**Tech:** Python, Pandas, NumPy, Excel, Power BI  
-
-[🔗 GitHub](https://github.com/rehmantade331-80/Zomato_Insights_Dashboard)
-
-</td>
-
-<!-- Project 2 -->
-<td align="center" width="320">
-
-### **Superstore Retail Performance Analysis**
-**Description:** Retail sales KPI analysis across regions and products using dashboards.  
-**Tech:** Excel, Power BI  
-
-[🔗 GitHub](https://github.com/rehmantade331-80/Superstore-Retail-Performance-Analysis)
-
-</td>
-
-<!-- Project 3 -->
-<td align="center" width="320">
-
-### **HR Dashboard**
-**Description:** HR analytics dashboard to track attrition, performance, and demographics.  
-**Tech:** Excel, Power BI  
-
-[🔗 GitHub](https://github.com/rehmantade331-80/HR_Dashboard)
-
-</td>
-
-</tr>
-</table>
 </div>
+
+---
+# 🏆 Certifications
+<p align="center">
+<img src="https://img.shields.io/badge/SQL_Course-Udemy-FF6F00?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI_Beginner-Udemy-FF6F00?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-Udemy-FF6F00?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deloitte_Analytics-Forage-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -85,6 +53,15 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 <img src="https://nirzak-streak-stats.vercel.app/?user=rehmantade331-80&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
+
+---
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://instagram.com/its_a_rehman_"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/a-rehman-tade-503126279"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rehmantade331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
