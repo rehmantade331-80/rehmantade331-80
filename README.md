@@ -53,7 +53,23 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 <img src="https://nirzak-streak-stats.vercel.app/?user=rehmantade331-80&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+---
+<details open>
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=rehmantade331-80&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
 
+<p align="center">
+   
+
+<p align="center">
+   <img alt="Rehman's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rehmantade331-80&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
+</p>
+
+<div align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&layout=compact&theme=transparent"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rehmantade331-80&show_icons=true&theme=transparent"/>
+</div>
+
+</details>
 
 ---
 ## 🌐 Connect with Me
