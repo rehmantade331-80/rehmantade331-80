@@ -30,11 +30,55 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 
 <div align="center">
 
-| Zomato Insights Dashboard | Superstore Retail Performance Analysis | HR Dashboard |
-|---------------------------|--------------------------------------|-------------|
-| <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** Analyze restaurant & customer data, build actionable insights, and create a Power BI dashboard.<br>**Tech:** Python, Pandas, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/Zomato_Insights_Dashboard)</div> | <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** Retail sales KPI analysis across regions and products using dashboards.<br>**Tech:** Excel, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/Superstore-Retail-Performance-Analysis)</div> | <div style="background-color:#1e1e1e; padding:15px; border:2px solid #ff6f00; border-radius:10px; width:300px;">**Description:** HR analytics dashboard to track attrition, performance, and demographics.<br>**Tech:** Excel, Power BI<br>[🔗 GitHub](https://github.com/rehmantade331-80/HR_Dashboard)</div> |
+<table>
+<tr>
+<td align="center" valign="top">
+  <div style="background-color:#1e1e1e; padding:20px; border:2px solid #ff6f00; border-radius:15px; width:280px;">
+    <h3 style="color:#ff6f00;">Zomato Insights Dashboard</h3>
+    <p style="color:#ffffff; font-size:14px; line-height:1.4;">
+      **Description:** Analyze restaurant & customer data, build actionable insights, and create a Power BI dashboard.<br>
+      **Tech:** Python, Pandas, Power BI
+    </p>
+    <a href="https://github.com/rehmantade331-80/Zomato_Insights_Dashboard" style="text-decoration:none;">
+      <span style="background-color:#ff6f00; color:#000000; padding:5px 12px; border-radius:5px; font-weight:bold;">🔗 GitHub</span>
+    </a>
+  </div>
+</td>
+
+<td width="20"></td> <!-- spacing between cards -->
+
+<td align="center" valign="top">
+  <div style="background-color:#1e1e1e; padding:20px; border:2px solid #ff6f00; border-radius:15px; width:280px;">
+    <h3 style="color:#ff6f00;">Superstore Retail Performance Analysis</h3>
+    <p style="color:#ffffff; font-size:14px; line-height:1.4;">
+      **Description:** Retail sales KPI analysis across regions and products using dashboards.<br>
+      **Tech:** Excel, Power BI
+    </p>
+    <a href="https://github.com/rehmantade331-80/Superstore-Retail-Performance-Analysis" style="text-decoration:none;">
+      <span style="background-color:#ff6f00; color:#000000; padding:5px 12px; border-radius:5px; font-weight:bold;">🔗 GitHub</span>
+    </a>
+  </div>
+</td>
+
+<td width="20"></td> <!-- spacing between cards -->
+
+<td align="center" valign="top">
+  <div style="background-color:#1e1e1e; padding:20px; border:2px solid #ff6f00; border-radius:15px; width:280px;">
+    <h3 style="color:#ff6f00;">HR Dashboard</h3>
+    <p style="color:#ffffff; font-size:14px; line-height:1.4;">
+      **Description:** HR analytics dashboard to track attrition, performance, and demographics.<br>
+      **Tech:** Excel, Power BI
+    </p>
+    <a href="https://github.com/rehmantade331-80/HR_Dashboard" style="text-decoration:none;">
+      <span style="background-color:#ff6f00; color:#000000; padding:5px 12px; border-radius:5px; font-weight:bold;">🔗 GitHub</span>
+    </a>
+  </div>
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 # 🏆 Certifications
