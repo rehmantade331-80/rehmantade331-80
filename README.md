@@ -92,11 +92,41 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 ---
 
 # 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rehmantade331-80&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=rehmantade331-80&theme=dark&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+
+<br>
+
+
+
+<br>
+
+<p align="center">
+  <img width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehmantade331-80&theme=radical"
+    alt="Profile Summary Card" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="48%"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/rehmantade331-80?cardType=level&theme=radical"
+    alt="GitHub Stats" />
+  <img width="48%"
+    src="https://nirzak-streak-stats.vercel.app/?user=rehmantade331-80&theme=radical"
+    alt="GitHub Streak Stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="32%"
+    src="https://github-readme-stats.vercel.app/api?username=rehmantade331-80&theme=dark" />
+  <img width="32%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&theme=dark&layout=compact" />
+</p>
+
+<br>
+
 ---
 <details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=rehmantade331-80&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
