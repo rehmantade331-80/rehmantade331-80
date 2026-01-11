@@ -93,17 +93,7 @@ I transform raw data into **actionable insights**, and I am passionate about **a
 
 # 📊 GitHub Stats
 
-<br>
 
-
-
-<br>
-
-<p align="center">
-  <img width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehmantade331-80&theme=radical"
-    alt="Profile Summary Card" />
-</p>
 
 <br>
 
@@ -111,21 +101,12 @@ I transform raw data into **actionable insights**, and I am passionate about **a
   <img width="48%"
     src="https://awesome-github-stats.azurewebsites.net/user-stats/rehmantade331-80?cardType=level&theme=radical"
     alt="GitHub Stats" />
-  <img width="48%"
+  <img width="48%" 
     src="https://nirzak-streak-stats.vercel.app/?user=rehmantade331-80&theme=radical"
     alt="GitHub Streak Stats" />
 </p>
 
-<br>
 
-<p align="center">
-  <img width="32%"
-    src="https://github-readme-stats.vercel.app/api?username=rehmantade331-80&theme=dark" />
-  <img width="32%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&theme=dark&layout=compact" />
-</p>
-
-<br>
 
 ---
 <details open>
@@ -138,21 +119,20 @@ I transform raw data into **actionable insights**, and I am passionate about **a
    <img alt="Rehman's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rehmantade331-80&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
-<div align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmantade331-80&layout=compact&theme=transparent"/>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rehmantade331-80&show_icons=true&theme=transparent"/>
-</div>
 
-</details>
 
 ---
 ## 🌐 Connect with Me
 <p align="center">
+  
 <a href="https://instagram.com/its_a_rehman_"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/a-rehman-tade-503126279"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rehmantade331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehmantade331-80&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=rehmantade331-80&icon=0&color=0)](https://visitcount.itsvg.in)
